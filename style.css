@@ -1,0 +1,45 @@
+main {
+    display: flex;
+    flex-direction: column;
+    width: 390px;
+    height: 892px;
+    margin-top: 80px;
+    margin-left: 95px;
+    margin-right: 95px;
+    align-items: center;
+
+}
+
+body {
+
+    width: 430px;
+    height: 932px;
+    padding: 20px;
+
+}
+
+h1 {
+    font-family: "Poppins";
+    font-size: 24px;
+    color: #C47F17;
+    border-radius: 100px;
+    font-style: normal;
+
+
+
+}
+
+p {
+    font-family: "Baloo 2", sans-serif;
+    font-size: 14px;
+    color: #403937;
+}
+
+button{
+    font-family: "Poppins";
+    color: white;
+    background-color: #54857B;
+    font-size: 14px;
+    border-color: #54857B;
+    border-radius: 100px;
+}
